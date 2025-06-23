@@ -1,0 +1,10 @@
+{
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "OBJECT_NAME": "TRG_EMPLEADOS_UPPER",
+      "OBJECT_TYPE": "TRIGGER",
+      "STATUS": "ENABLED"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "EMPLEADOS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]
